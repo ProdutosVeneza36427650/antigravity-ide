@@ -1,0 +1,6 @@
+node_modules/
+*.zip
+extensions/google.googlecloudtools.cloudcode-2.40.0-universal/dist/server/
+extensions/
+artifacts
+*.zip
